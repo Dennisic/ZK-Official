@@ -23,11 +23,11 @@
 }
 .header{
   margin-top: 30px;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   height: 50px;
 }
 .text{
-  font-size: 60px;
+  font-size: 50px;
   font-weight: bold;
   /* color: #FFFFFF; */
   line-height: 82px;
