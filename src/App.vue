@@ -31,7 +31,7 @@
   font-weight: bold;
   /* color: #FFFFFF; */
   line-height: 82px;
-  background-image: linear-gradient(137deg, #60638B 20%, #F9F9F9 50%, #60638B 80%, #F9F9F9 100%);;
+  background-image: linear-gradient(137deg, #60638B 20%, #F9F9F9 50%, #60638B 80%, #F9F9F9 100%);
   -webkit-background-clip: text;
   color: transparent;
   text-align: center;
